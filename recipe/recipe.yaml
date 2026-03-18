@@ -28,7 +28,7 @@ requirements:
       then:
       - libgl-devel
   host:
-    - root_base
+    - root_base 6.36.*
     - qt
     - python
   run:
