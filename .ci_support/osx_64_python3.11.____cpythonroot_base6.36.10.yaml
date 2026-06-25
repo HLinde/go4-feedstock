@@ -28,6 +28,8 @@ python:
 - 3.11.* *_cpython
 qt:
 - '5.15'
+root_base:
+- 6.36.10
 target_platform:
 - osx-64
 zip_keys:
